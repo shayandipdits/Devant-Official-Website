@@ -311,6 +311,22 @@
 	{
 		height: 250px;
 	}
+	.aicloudsection_breadcumback
+	{
+		height: 250px;
+	}
+	.cybersecuritysection_breadcumback
+	{
+		height: 250px;
+	}
+	.futureofworksection_breadcumback
+	{
+		height: 250px;
+	}
+	.blockchainsection_breadcumback
+	{
+		height: 250px;
+	}
 	.breadcumtext_outarea
 	{
 		margin: 140px 0px 0px 0px;
@@ -506,4 +522,25 @@
     {
     	font-size: 25px;
     }
+	.cmsetext_designcmsacld
+	{
+		padding: 10px 10px 0px 10px;
+	}
+	.aiclod_scndimgdesign
+	{
+		bottom: -70%;
+		right: 4%;
+	}
+	.aicloud_rightoutsection
+	{
+		margin: 190px 0px 0px 0px;
+	}
+	.aiclod_downoutsection 
+	{
+		margin: 0px 0px 0px 0px;
+	}
+	.aiclod_downoutsection1
+	{
+		margin: 0px 0px 0px 0px;
+	}
 }
