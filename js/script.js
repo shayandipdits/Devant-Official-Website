@@ -202,3 +202,7 @@ $('.owl-carousel').owlCarousel({
     }
   ); 
 /*=======================================content management service area====================*/  
+
+/*=======================================content management service area====================*/
+
+/*=======================================content management service area====================*/

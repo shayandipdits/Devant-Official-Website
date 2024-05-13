@@ -327,6 +327,10 @@
 	{
 		height: 250px;
 	}
+	.webdevlopmentssection_breadcumback
+	{
+		height: 250px;
+	}
 	.breadcumtext_outarea
 	{
 		margin: 140px 0px 0px 0px;
@@ -542,5 +546,21 @@
 	.aiclod_downoutsection1
 	{
 		margin: 0px 0px 0px 0px;
+	}
+	.kdfn_ptexydesign
+	{
+		font-size: 13px;
+	}
+	.webdevarea_outsection
+	{
+		margin: 70px 0px 0px 0px;
+	}
+	.owap_textdesign
+	{
+		font-size: 17px;
+	}
+	.pcesectext_design
+	{
+		font-size: 15px;
 	}
 }
