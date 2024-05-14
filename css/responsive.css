@@ -141,6 +141,7 @@
         height: 50px;
         font-size: 12px;
         margin: 0px 0px 20px 0px;
+        float: left;
 	}
 	.sofitext_indesign
 	{
@@ -175,14 +176,6 @@
 	{
 		font-size: 30px;
 		padding: 0px 0px 15px 0px;
-	}
-	.trustclient_outarea
-	{
-		display: none;
-	}
-	.trustclient_outarea1
-	{
-		display: block !important;
 	}
 	.ovcclnt_textdesign
 	{
@@ -324,6 +317,10 @@
 		height: 250px;
 	}
 	.blockchainsection_breadcumback
+	{
+		height: 250px;
+	}
+	.webdevlopmentssection_breadcumback
 	{
 		height: 250px;
 	}
@@ -500,6 +497,10 @@
     {
     	margin: 40px 0px 40px 0px;
     }
+    .rightblogs_detailsoutsection
+    {
+    	margin: 20px 0px 0px 0px;
+    }
     .leftindiamap_outarea
     {
     	height: 400px;
@@ -563,4 +564,78 @@
 	{
 		font-size: 15px;
 	}
+	.mainservice_cnthdngtextdesign
+	{
+		font-size: 14px;
+	}
+	.mainservice_ldptextdesign
+	{
+		font-size: 13px;
+	}
+	.mainservice_cnthdngtextdesign1
+	{
+		font-size: 14px;
+	}
+	.webdevs_downysection
+	{
+		margin: 20px 0px 70px 0px;
+	}
+	.mainservice_downcnthdngtextdesign
+	{
+		font-size: 14px;
+	}
+	.mainservice_ioptextdesign
+	{
+		font-size: 13px;
+	}
+	.tlent_kstextdesign
+	{
+		font-size: 20px;
+	}
+	.kts_msyptextdesign 
+	{
+        width: 100%;
+        font-size: 12px;
+        text-align: justify;
+        padding: 7px 15px 10px 15px;
+    }
+    .sky-tabs > label span span 
+    {
+        font-size: 13px;
+        padding: 0 20px;
+    }
+    .ikimg_tabdesign 
+    {
+        width: 23px;
+    }
+    .sky-tabs > label 
+    {
+        width: 48%;
+    }
+    .tabs_incomarea li 
+    {
+        height: 150px;
+        width: 48.2%;
+        margin: 0px 5px 20px 0px;
+    }
+    .codegirl_imgdesign 
+    {
+        display: none;
+    }
+    .tabs_incomarea
+    {
+    	margin-top: 10px;
+    }
+    .hdngfst_rightoutarea
+    {
+    	float: none;
+    }
+    .lwrbtn_design1
+    {
+    	width: 160px;
+        height: 50px;
+        font-size: 12px;
+        margin: 10px 0px 5px 0px;
+        float: left;
+    }
 }
