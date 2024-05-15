@@ -6809,6 +6809,87 @@ figure.snip1206.hover figcaption p
 }
 /*========================================contacus section================================*/
 
+/*========================================privacy policy section==========================*/
+.privacycdcum_outsection
+{
+  background-image: url(../images/privacy-policybreadcum.jpg);
+  height: 500px;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+.privacycdcum_outsection::before 
+{
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: #00000052;
+}
+.document_outbackground
+{
+  background-image: url(../images/paper-background.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+.privacy_policyoutsection
+{
+  margin: 50px 0px 50px 0px;
+}
+.pplcy_hdngtext
+{
+  color: #ef4138;
+  font-weight: 700;
+  margin: 0px;
+  font-size: 30px;
+}
+.pplcy_pgetedsxt
+{
+  margin: 0px;
+  padding: 10px 0px 0px 0px;
+  color: #444;
+  font-size: 14px;
+  text-align: justify;
+  font-weight: 600;
+  line-height: 23px;
+}
+.degap_area
+{
+  padding: 0px 0px 10px 0px;
+}
+.pocus_area
+{
+  margin: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.pocus_area li
+{
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  -webkit-align-items: center;
+  padding: 15px 0px 0px 0px;
+  list-style: none;
+}
+.pocus_area li i
+{
+  padding: 0px 10px 0px 0px;
+  font-size: 20px;
+  color: #ef4138;
+}
+.pocus_area li span
+{
+  color: #444;
+  font-size: 14px;
+  padding: 0px 0px 0px 2px;
+  line-height: 22px;
+  font-weight: 600;
+  text-align: justify;
+}
+/*========================================privacy policy section==========================*/
+
 /*========================================footer section====================================*/
 .dits_footeroutsection
 {

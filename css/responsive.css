@@ -328,6 +328,10 @@
 	{
 		height: 250px;
 	}
+	.privacycdcum_outsection
+	{
+		height: 250px;
+	}
 	.breadcumtext_outarea
 	{
 		margin: 140px 0px 0px 0px;
@@ -672,5 +676,25 @@
     .gitotext_ctdfesign
     {
     	font-size: 30px;
+    }
+    .newsd_pbtbn
+    {
+    	right: 27px;
+    }
+    .pplcy_hdngtext
+    {
+    	font-size: 25px;
+    }
+    .pplcy_pgetedsxt
+    {
+    	font-size: 13px;
+    }
+    .pocus_area li
+    {
+    	padding: 10px 0px 0px 0px;
+    }
+    .pocus_area li span
+    {
+    	font-size: 13px;
     }
 }
