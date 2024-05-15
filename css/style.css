@@ -3579,7 +3579,7 @@ body::-webkit-scrollbar-thumb
 .blghme_imgdesign
 {
   width: 100%;
-  height: 200px;
+  height: 207px;
   border-radius: 0px 0px 0px 0px;
 }
 .blog_rightoutsection
@@ -3601,7 +3601,7 @@ body::-webkit-scrollbar-thumb
   font-size: 15px;
   margin: 0px;
   color: #FFF;
-  padding: 20px 10px 10px 10px;
+  padding: 20px 10px 15px 10px;
   font-weight: 400;
 }
 .amnicontext_design
@@ -3614,6 +3614,10 @@ body::-webkit-scrollbar-thumb
 .amnicontext_design i
 {
   padding: 0px 5px 0px 0px;
+}
+.ikmusee_imgdesign
+{
+  width: 40px;
 }
 .blghme_btndesigns
 {
@@ -6488,7 +6492,7 @@ figure.snip1206.hover figcaption p
 .dcontact_otarea
 {
  margin: 0px;
- padding: 0px;
+ padding: 20px 15px 0px 15px;
 }
 .dcontact_otarea li
 {
@@ -6496,7 +6500,7 @@ figure.snip1206.hover figcaption p
   align-items: center;
   /* justify-content: center; */
   -webkit-align-items: center;
-  padding: 25px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
   list-style: none;
 }
 .dcontact_otarea li i
@@ -6517,7 +6521,45 @@ figure.snip1206.hover figcaption p
 .dcontact_otarea li span
 {
   color: #000;
-  font-size: 13px;
+  font-size: 14px;
+  padding: 0px 0px 0px 2px;
+  line-height: 22px;
+  font-weight: 600;
+  text-align: justify;
+}
+.dcontact_otarea1
+{
+ margin: 0px;
+ padding: 52px 15px 0px 15px;
+}
+.dcontact_otarea1 li
+{
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  -webkit-align-items: center;
+  padding: 20px 0px 0px 0px;
+  list-style: none;
+}
+.dcontact_otarea1 li i
+{
+  padding: 0px 10px 0px 0px;
+  font-size: 20px;
+  color: #ef4138;
+}
+.dcontact_otarea1 li a
+{
+  color: #000;
+  text-decoration: none;
+}
+.dcontact_otarea1 li a:hover
+{
+  color: #000 !important;
+}
+.dcontact_otarea1 li span
+{
+  color: #000;
+  font-size: 14px;
   padding: 0px 0px 0px 2px;
   line-height: 20px;
   font-weight: 600;
@@ -6601,6 +6643,8 @@ figure.snip1206.hover figcaption p
   margin-right: auto;
   display: block;
   text-align: center;
+  height: 60px;
+  margin-bottom: 50px;
 }
 .olfxcz_pox
 {
@@ -6643,7 +6687,7 @@ figure.snip1206.hover figcaption p
   margin: 0px;
   font-size: 50px;
   font-weight: 600;
-  width: 750px;
+  width: 770px;
 }
 .witxy_ptextdesign
 {
@@ -6673,13 +6717,95 @@ figure.snip1206.hover figcaption p
 .hboxfstleft_outsection1
 {
   position: relative;
-  margin: 0px 0px 0px 0px;
+  margin: 35px 0px 0px 0px;
   padding: 0px;
 }
 .hboxfstright_outsection1
 {
   position: relative;
-  margin: 0px 0px 0px 0px;
+  margin: 35px 0px 0px 0px;
+}
+.gform_outsection
+{
+  margin: 40px 0px 0px 0px;
+  position: relative;
+}
+.fcontactform_backsection
+{
+  padding: 0px;
+  position: relative;
+  margin: 50px 0px 0px 0px;
+  background-color: #000000e0;
+}
+.kgraph_back
+{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  opacity: 0.1;
+}
+.form-item1
+{
+  position: relative;
+  margin: 20px 0px 20px 0px;
+}
+.form-item1 input
+{
+  display: block;
+  width: 100%;
+  height: 45px;
+  background: #FFF;
+  transition: all .3s ease;
+  padding: 0 15px;
+  cursor: pointer;
+}
+.form-item1 select
+{
+  display: block;
+  width: 100%;
+  height: 45px;
+  background: #ffffff91;
+  transition: all .3s ease;
+  padding: 0 15px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.form-item1 input:focus
+{
+  border-color: blue
+}
+.form-item1 label
+{
+  position: absolute;
+  cursor: text;
+  z-index: 2;
+  top: 12px;
+  left: 10px;
+  font-size: 13px;
+  background: #FFF;
+  padding: 0 10px;
+  color: #000000;
+  transition: all .3s ease;
+}
+.form-item1 input:focus + label,
+.form-item1 input:valid + label
+{
+  font-size: 11px;
+  top: -5px
+}
+.form-item1 input:focus + label
+{
+  color: blue
+}
+.gitotext_ctdfesign
+{
+  margin: 0px;
+  text-align: center;
+  font-size: 50px;
+  position: relative;
+  color: #FFF;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }
 /*========================================contacus section================================*/
 
